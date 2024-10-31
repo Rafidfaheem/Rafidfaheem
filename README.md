@@ -1,12 +1,7 @@
-- 👋 Hi, I’m RAFID FAHEEM
-- 👀 I’m interested in SOFTWARE ENGINEERING
-- 🌱 I’m currently learning MODERN WEB APPLICATIONS DEVELOPEMENT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-Rafidfaheem/Rafidfaheem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 ask me about HTML,CSS,BOOTSTRAP
+- 🌱 I’m currently learning MODERN WEB APPLICATIONS DEVELOPEMENT
+- 📫 How to reach me rstop818@gmail.com
+  
+
+👋 Hi, I'm Rafid Faheem 
