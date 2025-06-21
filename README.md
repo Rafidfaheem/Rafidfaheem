@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXfX7QEFTGW2ChG_mn_uw6-vpIHBp94q4KDw&s" alt="">
+<img src="https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png" alt="">
 <h1 align="center">Hi 👋, I'm Rafid Faheem</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQdhroUP3JxhPZili5XdUJ90lrDecNaiDm2w&s" alt="">
