@@ -1,8 +1,8 @@
 <img src="https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png" alt="">
 <h1 align="center">Hi 👋, I'm Rafid Faheem</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQdhroUP3JxhPZili5XdUJ90lrDecNaiDm2w&s" alt="">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs2dEGKznfM0aCa-VSRYfFqpLbQnPOQ5MI_w&s" alt="">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQdhroUP3JxhPZili5XdUJ90lrDecNaiDm2w&s" alt=""> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSotTFsM24FS8CV1jb8CYZcaPWYiQZTi1YEFw&s" alt="">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs2dEGKznfM0aCa-VSRYfFqpLbQnPOQ5MI_w&s" alt=""> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpn0tEIzsZp7K6KfDG_Aj0X_1vD4R_ZI2ZzQ&s" alt="">
 
 
 
