@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT65eZ339yQUGHZ185YYSPzugwcGOXUBkOz_g&s">
 <img aling="left" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUKwwrAYyK6pay8YXmQHvpZZA3IAWUGb_OWw&s">
 
-- 🌱 I’m currently learning **Database**
+- 🌱 I’m currently learning **DevOps Engineering**
 
 - 💬 Ask me about **HTML CSS JAVASCRIPT TYPESCRIPT REACT JS NODE JS EXPRESS JS MONGO DB**
 
