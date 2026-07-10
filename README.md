@@ -1,14 +1,16 @@
-[![MasterHead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)]
+![MasterHead](file:///C:/Users/rafid/Downloads/github-header-banner.png)
 <h1 align="center">Hi 👋, I'm Rafid faheem</h1>
 <h3 align="center">A passionate fullstack developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT65eZ339yQUGHZ185YYSPzugwcGOXUBkOz_g&s">
 <img aling="left" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUKwwrAYyK6pay8YXmQHvpZZA3IAWUGb_OWw&s">
 
 - 🌱 I’m currently learning **DevOps Engineering**
-
+                                
 - 💬 Ask me about **HTML CSS JAVASCRIPT TYPESCRIPT REACT JS NODE JS EXPRESS JS MONGO DB**
 
 - 📫 How to reach me **rafidfaheem280@gmail.com**
+
+- 💼 Check out my portfolio at: **https://preview--rafid-portfolio-showcase.lovable.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
